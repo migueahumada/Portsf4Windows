@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TutorialPortsf", "TutorialPortsf.vcxproj", "{25B923D7-A8FC-4917-B783-BF4696D6106A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25B923D7-A8FC-4917-B783-BF4696D6106A}.Debug|x64.ActiveCfg = Debug|x64
+		{25B923D7-A8FC-4917-B783-BF4696D6106A}.Debug|x64.Build.0 = Debug|x64
+		{25B923D7-A8FC-4917-B783-BF4696D6106A}.Debug|x86.ActiveCfg = Debug|Win32
+		{25B923D7-A8FC-4917-B783-BF4696D6106A}.Debug|x86.Build.0 = Debug|Win32
+		{25B923D7-A8FC-4917-B783-BF4696D6106A}.Release|x64.ActiveCfg = Release|x64
+		{25B923D7-A8FC-4917-B783-BF4696D6106A}.Release|x64.Build.0 = Release|x64
+		{25B923D7-A8FC-4917-B783-BF4696D6106A}.Release|x86.ActiveCfg = Release|Win32
+		{25B923D7-A8FC-4917-B783-BF4696D6106A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2C6402B-5A8E-4BD1-A8BC-105B55750720}
+	EndGlobalSection
+EndGlobal
