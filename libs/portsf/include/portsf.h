@@ -132,10 +132,11 @@ enum {
 
 
 /* support for the PEAK chunk */
-/* but NB: in a WAVE or AIFF file pos is always 32bits */
+/* but NB: in a WAVE or AIFF file pos is always 32bits 
+*/
 typedef struct psf_chpeak {	
 	float val;
-	unsigned long pos;   // OK for all WAVE and AIFF <= 4GB
+	unsigned long pos;   // OK for all WAVE and AIFF <= 4GB || the number of samples
 } PSF_CHPEAK;
 
 /* second two are speculative at present! */
